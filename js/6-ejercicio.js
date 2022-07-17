@@ -8,7 +8,7 @@
 // 666666
 let x = 1
 let i = 0
-for (x = 0; x <= 30 ; x++ ){
+for (x = 1; x <= 30 ; x++ ){
     for ( i = 0; i < x ; i++ ){
         document.write (x)
         
